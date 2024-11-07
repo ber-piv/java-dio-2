@@ -1,5 +1,6 @@
 *04/11/2014*
 # Declarar variável em java 
+
 ## estrutura 
 
 **tipo Nome bem definio = Atribuição 9opcinal em alguns casos**
@@ -10,7 +11,9 @@
     Dog spike; // obserev que ela não tem valor
 
 **booLean** = valores lógicos  (true and false)
+
 # Métodos
+
 ## estrutura
 **TipoRetorno NomeObjetivoNoInfinitivo Parametro(s)**
 
@@ -69,5 +72,37 @@ Organização de arquivos .java
 
 **devems estar  ciente do limite de armazenamento de cada dado**
 
-recuso : **cast** trasforma de um  tipo mais abrangente para um mais curto
+recuso : **cast** trasforma de um  tipo mais abrangente para um mais curto e específico
 
+*07/11/2024* 
+
+# Constantes
+
+**São valores que em armazenado em memória não pode serem alterados**
+
+ em java são reprensentaods pela palavra (reservada) **final** antes do tipo
+
+    Constantes são sempre escritas em CAIXA ALTA
+
+# operadores 
+
+## atribuição representado por =
+
+**definir um valorou alterar o valor de uma variável**
+  
+    exemplo
+        int idade = 17;
+        double peso = 178.8
+    
+## aritimétios respresentado por =, - , *, /
+
+    exemplo
+        double soma = 10.6 + 8.2;
+        int divisao = 4 / 2;
+
+se aplcado a variavis tipo texto ele fazra a concatenação de textos (juntar os textos)
+
+    exemplo 
+        String nome = "LINGUAGEM" + "JAVA";
+
+se usado () ele resolvera o que está emtre os () primeiro 
