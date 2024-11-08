@@ -106,3 +106,16 @@ se aplcado a variavis tipo texto ele fazra a concatenação de textos (juntar os
         String nome = "LINGUAGEM" + "JAVA";
 
 se usado () ele resolvera o que está emtre os () primeiro 
+
+## unário 
+
+são aplicados com operadors numericos e ells realzam um trabalhode incrementar
+
+**temos**
+
+    (+) = op. un. de valor poitivo - são positivos msm sem esse operador
+    (-) = op. un. de valor negativo - nega um número ou expressao
+    (++) = op. un. incremento val. - incre. val. 1 unidade
+    (--) = op. un. decremento val. - dec. val. 1 unidade
+    (!) = op. un. lógico de neg. - nega o valor de uma expressao boleana
+
